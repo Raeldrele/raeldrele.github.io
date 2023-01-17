@@ -1,0 +1,13 @@
+body
+{
+  margin: 200px;
+  font-family: Verdana, Arial, Tahoma, Serif;
+  color: #ffffff;
+  background-color: rgb(43,140,190);
+  font-size: 100%;
+}
+header,footer
+{
+  text-align: center
+  font-family: Garamond, serif;
+}
