@@ -1,0 +1,13 @@
+body
+{
+  color: white;
+  background-color: dark blue;
+  font-family: Tahoma;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+header, footer
+{
+  text-align: center;
+  font-family: Garamond, serif;
+}
