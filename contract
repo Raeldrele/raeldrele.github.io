@@ -3,7 +3,7 @@
 <head>
     <meta charset = "UTF-8" />
     <title>
-        Katherine Engelbrecht's Kooky Eels | yak | Contract
+        Katherine Engelbrecht's Kooky Eels | Contract
     </title>
     <link href = "styles/default.css" rel = "stylesheet" />
 </head>
@@ -19,13 +19,23 @@
     </header>
 <main>
     <h2>Course Contract</h2>
-   <p>stuff</p><p>stuff</p>
+   <p>I understand that what i put here is publicly available on the web and i won’t put anything here I don't want the public to see.</p>
+   <br>
    <p>stuff</p><p>stuff</p><p>- Katherine Engelbrecht, 1/20/2023</p>
 </main>
 <footer>
     <hr>
-<nav>add a nav  bar with all the links to your sites, including fcc, ca, linkedinlearning, github.com & github.io</nav>
-<p>validation buttons go here</p>
+        <footer>
+            <a href="https://github.com/Raeldrele</a>
+            <a href="https://raeldrele.github.io/</a>
+            <a href="https://www.freecodecamp.org/Raeldrele</a>
+            <a href="https://www.codecademy.com/profiles/Raeldrele</a>
+            <a href="https://www.linkedin.com/in/kate-engelbrecht-2483401a</a> 
+        </footer>
+    </div>
+    
+</body>
+</html>
 </footer>
 </body>
 </html>
