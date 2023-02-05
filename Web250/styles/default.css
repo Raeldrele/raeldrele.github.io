@@ -1,8 +1,8 @@
 body
 {
   margin: 200px;
+  color:rgb(28, 144, 153);
   font-family: Verdana, Arial, Tahoma, Sans-serif;
-  color:rgb(28,144,153);
   background-color: rgb(189,201,225);
   font-size: 100%;
   background-image:url("../images/bottom.gif");
