@@ -5,7 +5,7 @@ body
   color:rgb(28,144,153);
   background-color: rgb(189,201,225);
   font-size: 100%;
-  background-image:url("/images/bottom.gif");
+  background-image:url("../images/bottom.gif");
   background-repeat: no-repeat;
   background-attachment:fixed;
   background-position:center bottom;
