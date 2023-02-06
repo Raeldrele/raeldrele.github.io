@@ -5,10 +5,6 @@ body
   font-family: Verdana, Arial, Tahoma, Sans-serif;
   background-color: rgb(222,235,247);
   font-size: 100%;
-  background-image:url("../images/bottom.gif");
-  background-repeat: no-repeat;
-  background-attachment:fixed;
-  background-position:center top;
 }
 header 
 {
