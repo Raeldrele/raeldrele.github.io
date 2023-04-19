@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>WEB250 - Katherine Engelbrecht's Kind Ecidna</title>
+    <link href = "styles/default.css" rel = "stylesheet">
+  </head>
+<body>
+ <main>
+  <h1>WEB250 - Katherine Engelbrecht's Kind Ecidna</h1>
+          <nav>
+          <a href = "index.html">Home</a> |
+          <a href = "contract.html">Contract</a> 
+        </nav>
+  
+  <h2>Solitude Vacations</h2>
+	 <p><strong>Tag Line:</strong> <br>Stronger Through Me-Time</p>
+	 <p><strong>Concept:</strong> <br>Solitude can help us get in touch with ourselves, better focus on our goals, and personal development.  Solitude Vacations offers you catered isolation with 
+   with no pesky people interrupting or bothering you.  Inspired Beatriz Flamini's recent 500 day sojourne in a cave.</p>
+	 <p><strong>Color Schemes:</strong><br>
+	 <ul>
+	 <li></li>
+	 <li></li>
+	 <li></li>
+	 </ul></p>
+	  <p><strong>Fonts:</strong> <br>	 
+    <ul>
+	 <li></li>
+	 <li></li>
+	 <li></li>
+	 </ul></p>
+		<br>
+		<br>
+</main>
+	<br>
+	<br>
+  <footer>
+      <div>
+            <a href="https://github.com/Raeldrele">GitHub</a> |
+            <a href="https://raeldrele.github.io/">GitHub Pages</a> |
+            <a href="https://www.freecodecamp.org/Raeldrele">Free Code Camp</a> |
+            <a href="https://www.codecademy.com/profiles/Raeldrele">CodeAcademy</a> |
+            <a href="https://www.linkedin.com/in/kate-engelbrecht-2483401a">LinkedIn</a> 
+	</div>
+	<figure>
+	  <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fraeldrele.github.io%2Fweb250%2Fintroduction.html" id="validation_link_html">
+		  <img src="images/validation_button_html.png" alt="html validator" height="31" width="88" style = "border: 0px;"></a>
+	  <a href="http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fraeldrele.github.io%2Fweb250%2Fintroduction.html&usermedium=all&vextwarning=&warning=1" id="validation_link_css">
+       <img src="images/validation_button_css.gif" alt="css validator" height = "31" width = "88" style = "border: 0px;"></a>
+         </figure>
+  </footer>
+</body>
+</html>
