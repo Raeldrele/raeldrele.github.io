@@ -5,6 +5,8 @@ body
   font-family: Palatino, Arial, Tahoma, Sans-serif;
   background-color: rgb(250,235,212);
   font-size: 100%;
+  padding-top: 14px;
+  padding-bottom: 14px;
 }
 header {
 	text-align: center;
@@ -13,8 +15,8 @@ header {
 	background-color: #2D93AD;
 	position: fixed;
 	z-index: 10;
-	padding-top: 14px;
-        padding-bottom: 14px;
+	padding: 14px;
+	margin: 30px auto;
 }
 h1{
 	text-align: center;
