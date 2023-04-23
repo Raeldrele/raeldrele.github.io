@@ -1,6 +1,6 @@
 body
 {
-  margin: 50px;
+  margin: 100px;
   color:rgb(20,80,102);
   font-family: Palatino, Arial, Tahoma, Sans-serif;
   background-color: rgb(250,235,212);
@@ -16,11 +16,13 @@ header {
 	position: fixed;
 	z-index: 10;
 	padding: 14px;
-	margin: 30px auto;
+	margin: 100px;
+	font-family: Arial, Tahoma, Sans-serif;
 }
 h1{
 	text-align: center;
 	color:rgb(45,147,173);
+	  margin: 100px;
 }
 
 footer
