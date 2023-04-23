@@ -1,6 +1,6 @@
 body
 {
-  margin: 100px;
+  margin: 20px;
   color:rgb(20,80,102);
   font-family: Palatino, Georgia, Arial, Sans-serif;
   background-color: rgb(250,235,212);
@@ -8,12 +8,11 @@ body
 }
 header {
 	text-align: center;
-	width: 100%;
 	height: auto;
 	background-color: #2D93AD;
 	position: fixed;
 	z-index: 5;
-	margin: 100px;
+	margin: 20px;
 	font-family: Arial, Georgia, Sans-serif;
 }
 h1{
@@ -23,11 +22,11 @@ h1{
 }
 h2{
 	align: center;
-	margin: 100px;
+	margin: 5px;
 }
 nav {
 	align: center;
-	margin: 100px;
+	margin: 5px;
 }
 
 footer
