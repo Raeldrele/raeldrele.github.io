@@ -1,7 +1,7 @@
 body
 {
   margin: 200px;
-  color:rgb(2,129,138);
+  color:rgb(20,80,102);
   font-family: Verdana, Arial, Tahoma, Sans-serif;
   background-color: rgb(255,247,251);
   font-size: 100%;
@@ -9,6 +9,7 @@ body
 header 
 {
   height: 100px;
+  color:rgb(45,147,173)
   text-align: center;
 }
 
@@ -21,7 +22,7 @@ footer
 
 /* unvisited link */
 a:link {
-  color: darkblue;
+  color:rgb(228,95,85);
 }
 
 /* visited link */
@@ -31,7 +32,7 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  color: hotpink;
+  color:rgb(237,148,142);
 }
 
 /* selected link */
