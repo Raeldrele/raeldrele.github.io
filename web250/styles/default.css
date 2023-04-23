@@ -1,9 +1,9 @@
 body
 {
   margin: 50px;
-  color:rgb(250,235,212);
+  color:rgb(20,80,102);
   font-family: Palatino, Arial, Tahoma, Sans-serif;
-  background-color: rgb(235,210,173);
+  background-color: rgb(250,235,212);
   font-size: 100%;
 }
 header {
@@ -18,7 +18,7 @@ header {
 }
 h1{
 	text-align: center;
-	color: darkblue;
+	color:rgb(45,147,173);
 }
 
 footer
