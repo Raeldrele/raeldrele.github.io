@@ -5,6 +5,8 @@ body
   font-family: Palatino, Georgia, Arial, Sans-serif;
   background-color: rgb(250,235,212);
   font-size: 100%;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 header {
 	text-align: center;
