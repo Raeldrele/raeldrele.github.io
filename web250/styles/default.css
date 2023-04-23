@@ -32,14 +32,6 @@ footer
   padding-bottom: 14px;
 }
 
-.contract {
-	box-sizing: border-box;
-	padding: 40px;
-	color: #FFFFFF;
-	text-align: center;
-	width: 100%;
-	position: relative;
-	top: 50px;
 
 /* unvisited link */
 a:link {
