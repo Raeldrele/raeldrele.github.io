@@ -30,6 +30,14 @@ footer
   padding-bottom: 14px;
 }
 
+.contract {
+	box-sizing: border-box;
+	padding: 40px;
+	text-align: center;
+	width: 100%;
+	position: relative;
+	top: 50px;
+
 /* unvisited link */
 a:link {
   color:rgb(228,95,85);
