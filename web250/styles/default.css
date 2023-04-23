@@ -6,11 +6,23 @@ body
   background-color: rgb(255,247,251);
   font-size: 100%;
 }
-header 
-{
-  height: 100px;
-  color:rgb(45,147,173)
-  text-align: center;
+header {
+	text-align: center;
+	width: 100%;
+	height: auto;
+	background-size: cover;
+	background-attachment: fixed;
+	position: relative;
+	overflow: hidden;
+	border-radius: 0 0 85% 85% / 30%;
+}
+header .overlay{
+	width: 100%;
+	height: 100%;
+	padding: 25px;
+	color: #FFF;
+	text-shadow: 1px 1px 1px #333;
+	background-image: linear-gradient( 135deg, #008080 45%, #2D93AD 80%);
 }
 
 footer
