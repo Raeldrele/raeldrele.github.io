@@ -40,20 +40,20 @@ footer
 
 /* unvisited link */
 a:link {
-  color:rgb(228,95,85);
+  color:rgb(228,95,85); /*fire opal*/
 }
 
 /* visited link */
 a:visited {
-  color: green;
+  color: #000000; 
 }
 
 /* mouse over link */
 a:hover {
-  color:rgb(237,148,142);
+  color:rgb(237,148,142);/*light coral*/
 }
 
 /* selected link */
 a:active {
-  color: blue;
+  color: #dbad6a;
 }
