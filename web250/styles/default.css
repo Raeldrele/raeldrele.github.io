@@ -32,6 +32,13 @@ footer
   padding-bottom: 14px;
 }
 
+.brandname {
+	font: Georgia;
+	font-size: 30px;
+	font-style: oblique;
+	color: #59afc5;
+}
+
 
 /* unvisited link */
 a:link {
