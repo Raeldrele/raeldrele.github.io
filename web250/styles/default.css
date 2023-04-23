@@ -15,14 +15,13 @@ header {
 	background-color: #2D93AD;
 	position: fixed;
 	z-index: 10;
-	padding: 14px;
 	margin: 150px;
 	font-family: Arial, Georgia, Sans-serif;
 }
 h1{
 	text-align: center;
 	color:rgb(45,147,173);
-	  margin: 100px;
+	  margin: 20px;
 }
 h2{
 	align: center;
