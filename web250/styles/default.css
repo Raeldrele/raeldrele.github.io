@@ -1,5 +1,6 @@
 body
 {
+  text-align: center;
   margin: 20px;
   color:rgb(20,80,102);
   font-family: Palatino, Georgia, Arial, Sans-serif;
@@ -23,11 +24,11 @@ h1{
 	  margin: 20px;
 }
 h2{
-	align: center;
+	text-align: center;
 	margin: 5px;
 }
 nav {
-	align: center;
+	text-align: center;
 	margin: 5px;
 }
 
@@ -39,7 +40,6 @@ footer
 }
 
 .brandname {
-	font: Georgia;
 	font-size: 30px;
 	font-style: oblique;
 	color: #59afc5;
