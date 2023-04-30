@@ -48,7 +48,11 @@ footer {
   padding-bottom: 14px;
   color: #ffffff;
 }
-	
+
+.dashed-line {
+	border: 10px dashed #ebd2ad;
+}
+
 #brandname {
 	font-size: 5em;
 	font-style: oblique;
