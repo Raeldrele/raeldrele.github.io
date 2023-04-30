@@ -14,17 +14,17 @@ body {
 
 h1 {
 	text-align: center;
-	color:rgb(45,147,173);
+	color: #2d93ad; /*blue mussell*/
 }
 
 h2 {
 	text-align: center;
 	padding: 5px;
-	color:#e45f55;
+	color:#e45f55; /*fire opal*/
 }
 
 h3 {
-	color:#ebd2ad;
+	color:#ebd2ad; /*wheat*/
 	font-style: oblique;
 }
 
@@ -35,11 +35,11 @@ p {
 nav {
 	text-align: center;
 	margin: 5px;
-	color:#1c6e8c;
+	color:#1c6e8c; /*blue sapphire*/
 }
 
 footer {
-  background-color: #145066;
+  background-color: #145066; /*midnight blue*/
   text-align: center;
   padding-top: 14px;
   padding-bottom: 14px;
