@@ -2,14 +2,14 @@ header
 {
 	text-align: center;
 	padding: 10px;
-	font-family: Arial, Georgia, Sans-serif;
+	font-family: Luminari, Lucida, serif;
 }
 body
 {
   text-align: left;
   padding: 20px;
   color:rgb(20,80,102);
-  font-family: Palatino, Georgia, Arial, Sans-serif;
+  font-family: Palatino, Arial, Sans-serif;
   background-color: rgb(250,235,212);
 }
 
