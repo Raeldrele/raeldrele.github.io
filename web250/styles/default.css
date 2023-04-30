@@ -1,11 +1,10 @@
-header 
-{
+header {
 	text-align: center;
 	padding: 10px;
 	font-family: Palatino, Georgia, serif;
 }
-body
-{
+
+body {
   text-align: left;
   padding: 20px;
   color:rgb(20,80,102);
@@ -13,33 +12,36 @@ body
   background-color: rgb(250,235,212);
 }
 
-h1{
+h1 {
 	text-align: center;
 	color:rgb(45,147,173);
 	border-width: 2px;
 	border-color:#86c5d5;
 	padding: 20px;
 }
-h2{
+
+h2 {
 	text-align: center;
 	padding: 5px;
 	color:#e45f55;
 }
+
 h3 {
 	color:#ebd2ad;
 	font-style: oblique;
-p
-{
+}
+
+p {
 	padding:10px;
 }
+
 nav {
 	text-align: center;
 	margin: 5px;
 	color:#1c6e8c;
 }
 
-footer
-{
+footer {
   background-color: #145066;
   text-align: center;
   padding-top: 14px;
@@ -52,8 +54,8 @@ footer
 	font-style: oblique;
 	color: #59afc5;
 }
-#photo
-{
+
+#photo {
 	float: right;
 	margin: 0 0 15px 20px;
 	padding: 15px;
