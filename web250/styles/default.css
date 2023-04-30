@@ -37,13 +37,12 @@ nav {
 
 footer
 {
-  background-color: #1c6e8c
+  background-color: #1c6e8c;
   text-align: center;
   padding-top: 14px;
   padding-bottom: 14px;
-  color: #ffffff;
 }
-
+	
 .brandname {
 	font-size: 5em;
 	font-style: oblique;
