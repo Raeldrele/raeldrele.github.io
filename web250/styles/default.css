@@ -1,33 +1,38 @@
+header 
+{
+	text-align: center;
+	padding: 10px;
+	font-family: Arial, Georgia, Sans-serif;
+}
 body
 {
   text-align: left;
-  margin: 20px;
+  padding: 20px;
   color:rgb(20,80,102);
   font-family: Palatino, Georgia, Arial, Sans-serif;
   background-color: rgb(250,235,212);
-  font-size: 100%;
-  padding-left: 50px;
-  padding-right: 50px;
 }
-header {
-	text-align: center;
-	height: auto;
-	z-index: 5;
-	margin: 20px;
-	font-family: Arial, Georgia, Sans-serif;
-}
+
 h1{
 	text-align: center;
 	color:rgb(45,147,173);
-	  margin: 20px;
+	border-width: 5em;
+	border-color:#86c5d5;
+	padding: 20px;
 }
 h2{
 	text-align: center;
-	margin: 5px;
+	padding: 5px;
+	color:#e45f55;
+}
+p
+{
+	padding:10px
 }
 nav {
 	text-align: center;
 	margin: 5px;
+	color:#1c6e8c
 }
 
 footer
@@ -42,7 +47,6 @@ footer
 	font-style: oblique;
 	color: #59afc5;
 }
-
 
 /* unvisited link */
 a:link {
