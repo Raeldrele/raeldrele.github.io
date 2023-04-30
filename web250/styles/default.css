@@ -12,8 +12,6 @@ body
 header {
 	text-align: center;
 	height: auto;
-	background-color: #2D93AD;
-	position: fixed;
 	z-index: 5;
 	margin: 20px;
 	font-family: Arial, Georgia, Sans-serif;
@@ -40,7 +38,7 @@ footer
 }
 
 .brandname {
-	font-size: 30px;
+	font-size: 30em;
 	font-style: oblique;
 	color: #59afc5;
 }
